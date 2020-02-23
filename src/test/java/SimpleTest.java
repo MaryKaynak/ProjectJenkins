@@ -5,6 +5,8 @@ public class SimpleTest {
     public void passingTest(){
 
         System.out.println("this test will always pass!");
+
     }
+
 
 }
