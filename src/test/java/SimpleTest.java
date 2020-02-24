@@ -7,7 +7,6 @@ public class SimpleTest {
 
         System.out.println("this test will always pass!");
     }
-
     @Test
     public void secondtest(){
         System.out.println("never  test fail");
