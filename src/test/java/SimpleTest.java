@@ -13,6 +13,10 @@ public class SimpleTest {
     }
 
 
+    @Test
+    public void failingTest(){
+        Assert.fail("failing test");
+    }
 
 
 }
