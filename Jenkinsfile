@@ -34,6 +34,11 @@ pipeline {
                 }
             }
          }
+         stage('echo stage'){
+         steps{
+         echo "echo!"
+         }
+         }
       }
    }
 
