@@ -17,6 +17,4 @@ public class SimpleTest {
     public void failingTest(){
         Assert.fail("failing test");
     }
-
-
 }
